@@ -410,6 +410,7 @@
 
 ## Note Taking
 
+- [Anql](https://github.com/anqlproject/anql) - A lightweight document editor combining the simplicity of markdown notes with the power of spreadsheets. 🪟 🍎 🐧 [🟢]
 - [Inkless](https://github.com/Axorax/inkless) - Minimal, shortcut based app to take notes and use for light coding. 🪟 [🟢](https://github.com/Axorax/inkless) ⭐
 - [Obsidian](https://obsidian.md) - Knowledge base app with powerful linking and markdown support. 🪟 🍎 🐧 ⭐
 - [Craft Docs](https://craft.do) - Beautiful and powerful tool for creating and organizing documents and notes. 🪟 🍎
